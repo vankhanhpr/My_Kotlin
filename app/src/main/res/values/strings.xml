@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TabHost</string>
+
+
+    <string name="text1">Invite your friends</string>
+    <string name="text2">None of your contacts are using  WhatsApp. Use the button below to invite them</string>
+    <string name="text3">INVITE A FRIEND</string>
+    <string name="text4">WhatsApp messager is availble for Android,IPhone and Windows Phone</string>
+    <string name="text5">My status</string>
+    <string name="text6">Tab to status update</string>
+    <string name="sendmessage">"WhatsApp will send an SMS message to verity your phone number. Enter your country code and phone number:"
+    </string>
+    <string name="end">Carrier SMS charges may apply</string>
+
+
+
+
+</resources>
